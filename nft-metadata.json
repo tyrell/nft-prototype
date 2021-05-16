@@ -1,0 +1,12 @@
+{
+    "attributes" : [ {
+      "trait_type" : "Breed",
+      "value" : "Developer"
+    }, {
+      "trait_type" : "Eye color",
+      "value" : "Granite"
+    } ],
+    "description" : "Developers are born brave!.",
+    "image" : "https://gateway.pinata.cloud/ipfs/QmRtKRBGsGQ2vhP3vq7BCRGedgCA3xx89KyzNFRKaa58Gr",
+    "name" : "Neo"
+}
